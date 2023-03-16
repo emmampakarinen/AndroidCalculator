@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText number1;
     private EditText number2;
     private TextView result;
-    String v1, v2;// = number2.getText().toString();
+    String v1, v2;
     Integer n1, n2, res;
 
 

@@ -92,6 +92,7 @@
         android:id="@+id/TextViewResult"
         android:layout_width="161dp"
         android:layout_height="123dp"
+        android:text="Result"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="48sp"
